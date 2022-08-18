@@ -1328,7 +1328,8 @@ class Main:
 				continue
  
 		self.loop +=1
- def Subscraption():
+
+Subscraption():
 
 	key1=open('/data/data/com.termux/files/usr/bin/.MRD-cov','r').
 
